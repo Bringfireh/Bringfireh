@@ -2,7 +2,7 @@
 - 👀 I’m interested in VB.NET, C#, ASP.NET MVC
 - 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on C# Development
-- 📫 How to reach me ngutortsenongo@gmail.com or my phone 2348039611996.
+- 📫 How to reach me ngutortsenongo@gmail.com 
 
 <!---
 Bringfireh/Bringfireh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
