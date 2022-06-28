@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bringfireh - Tsenongo, Ngutor Stephen
-- 👀 I’m interested in VB.NET, C#, ASP.NET MVC
+- 👀 I’m interested in C#, VB.NET, ASP.NET MVC
 - 🌱 I’m currently learning Node JS
 
 - 📫 How to reach me ngutortsenongo@gmail.com 
